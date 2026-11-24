@@ -42,6 +42,7 @@
 [Bb]uild/
 [Bb]uild-*/
 cmake-build-*/
+.vscode/
 
 # CMake generated files
 CMakeFiles/
